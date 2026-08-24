@@ -1,0 +1,6 @@
+git init - start git tracking in the current project.
+git add . - prepare all project files to be saved
+git commit -m "Initial commit" - save the first version of the project locally 
+git branch -M main - set the main branch name to main
+git remote add origin REPOSITORY_URL - connect the local project to the GitHub repository 
+git push -u origin main - upload the main branch to GitHub 
